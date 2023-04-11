@@ -11,7 +11,7 @@ import (
 	"os/signal"
 	"time"
 
-	"github.com/kr/pty"
+	"github.com/creack/pty"
 	"github.com/maxmcd/webtty/pkg/sd"
 	"github.com/mitchellh/colorstring"
 	"github.com/pion/webrtc/v3"
